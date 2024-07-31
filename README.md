@@ -5,7 +5,7 @@
 
 - 레포 구조:
 ```bash
-AIFFEL_quest
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
